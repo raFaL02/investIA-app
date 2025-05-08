@@ -1,5 +1,7 @@
+import { Button } from "./_components/ui/button";
+
 const dashboard = () => {
-  return <h1>Hello World!</h1>;
+  return <Button>Hello World</Button>;
 };
 
 export default dashboard;
